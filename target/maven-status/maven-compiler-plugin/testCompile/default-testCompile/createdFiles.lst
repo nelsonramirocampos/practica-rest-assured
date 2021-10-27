@@ -1,0 +1,8 @@
+ConfVariables.class
+ApplicationProperties.class
+CreateUserResponse.class
+TestReqRest.class
+User.class
+CreateUserRequest.class
+BaseTest.class
+ReqRestTest.class
